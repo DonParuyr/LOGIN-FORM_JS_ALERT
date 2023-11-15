@@ -1,5 +1,6 @@
 # LOGIN-FORM_JS_ALERT
 JAVASCRIPT AUTHORIZATION FORM USING ALERT
+![image](https://github.com/DonParuyr/LOGIN-FORM_JS_ALERT/assets/95251384/f213075e-d48d-4730-b500-e0f4b95afc36)
 
 - - -[ RU ]:
 Это простая форма регистрации и авторизации.
